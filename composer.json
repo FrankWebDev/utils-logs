@@ -1,0 +1,19 @@
+{
+    "name": "utils-logs",
+    "description": "终端日志",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "frank",
+            "email": "fyp832008@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "utils\\logs\\": "src/"
+        }
+    }
+}
