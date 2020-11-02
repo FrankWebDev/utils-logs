@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "frank-webs/utils-logs": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "utils\\logs\\": "src/"
