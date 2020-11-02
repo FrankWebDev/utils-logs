@@ -11,7 +11,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "frank-webs/utils-logs": "dev-master"
+        "php": ">=7.2",
+        "ext-swoole": ">=4.4"
     },
     "autoload": {
         "psr-4": {
