@@ -1,5 +1,5 @@
 {
-    "name": "utils-logs",
+    "name": "frank-webs/utils-logs",
     "description": "终端日志",
     "type": "composer-plugin",
     "license": "MIT",
