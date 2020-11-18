@@ -1,17 +1,16 @@
 {
     "name": "frank-webs/utils-logs",
-    "description": "终端日志",
-    "type": "composer-plugin",
+    "description": "包",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "frank",
-            "email": "fyp832008@163.com"
+            "email": "fyp@163.com"
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "utils\\logs\\": "src/"
